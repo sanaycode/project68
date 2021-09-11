@@ -1,0 +1,11 @@
+marquee{
+    background-color: blue;
+    color:white;
+}
+.line{
+    background-color:darkgrey;
+    height:3px;
+    width:1,000;
+    border-radius: 2px;
+}
+
